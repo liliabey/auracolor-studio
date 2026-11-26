@@ -1,0 +1,6 @@
+flask
+numpy
+scipy
+pillow
+# optionnel (mode embeddings, sans Ollama) :
+# sentence-transformers
